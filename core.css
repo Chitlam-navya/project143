@@ -1,0 +1,140 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    height: 55
+    00px;
+    width: 3000px;
+    
+   
+   
+}
+.top{
+   display: flex;
+}
+#tr{
+    height: 2500px;
+    width: 1500px;
+    background-color:WHITE;
+    position: relative;
+}
+.tr1{
+    background-color: aliceblue;
+    position: absolute;
+    height: 5000px;
+    width: 1900px;
+    top: 200px;
+    left: 500px;
+    margin-top: 0px;
+    padding-top: 0px;
+    -webkit-box-shadow: -5px 6px 14px 8px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 6px 14px 8px rgba(0,0,0,0.75);
+box-shadow: -5px 6px 14px 8px rgba(0,0,0,0.75);
+   
+}
+
+.pic1{
+    background-image: url(../images/dn.jpg );
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size: 1900px;
+    margin-top: 0px;
+    padding-top: 0px;
+    
+}
+.para{
+    height: 700px;
+    width: 1400px;
+    background-color: white;
+    font-size: 60px;
+    padding: 250px;
+    line-height: 85px;
+    
+}
+.para h1{
+    padding-left: 350PX;
+}
+.four{
+    height: 1200px;
+    width: 1900px;
+    background-color: green;
+}
+.ff1{
+    display: flex;
+}
+.ff2{
+    display: flex;
+}
+.f1{
+    height: 600px;
+    width: 950px;
+    background-color: rgb(34, 104, 165);
+}
+.f2{
+    height: 600px;
+    width: 950px;
+    background-color: gray;
+    padding: 100px;
+}
+.f3{
+    height: 600px;
+    width: 950px;
+    background-color: gray;
+    padding: 100px;
+}
+.f4{
+    height: 600px;
+    width: 950px;
+    background-color: rgb(33, 36, 37);
+}
+.f1 img{
+    height: 800px;
+    width: 950px;
+}
+.f4 img{
+    height: 800px;
+    width: 950px;
+}
+.f2 .in1{
+    background-color: white;
+    height: 500px;
+    width: 550px;
+    line-height: 80px;
+    padding: 50px;
+    
+}
+.f3 .in2{
+    background-color: white;
+    height: 500px;
+    width: 550px;
+    padding: 70px;
+    font-size: 40px;
+    line-height: 80px;
+}
+.bot{
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+    padding-top: 500px;
+    padding-left: 200px;
+    
+}
+.bot img{
+    height: 400px;
+    width: 500px;
+    padding-left: 50px;
+    border-radius: 50%;
+
+}
+p{
+    text-align: center;
+}.las{
+    height: 200px;
+    width: 1900px;
+    background-color: black;
+    text-align: center;
+    padding-top: 150px;
+}
+.las i{
+    padding-left: 60px;
+}
